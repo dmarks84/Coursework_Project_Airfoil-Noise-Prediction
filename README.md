@@ -18,5 +18,5 @@ I took on the role of data engineer at an aeronautics consulting company. This f
  - Load and verify the stored model
 
 ## Skills (Developed & Applied)
-Programming, Python, Statistics, Linear Algebra, Numpy, Pandas, ETL &| ELT & Data Pipelines, Apache Spark, Automation, APIs, Data Modeling, Data Summarization, Regression, Superived ML
+Programming, Python, Statistics, Linear Algebra, Numpy, Pandas, ETL &| ELT & Data Pipelines, Apache Spark, Automation, APIs, Data Modeling, Data Summarization, Regression, Supervised ML
     
